@@ -1,0 +1,2 @@
+
+The functional code is shorter and conciser.
